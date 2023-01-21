@@ -1,2 +1,4 @@
 # algoexpert
-Algo expert solution
+
+
+[Blog](https://intothedeep.prettylog.com/)
