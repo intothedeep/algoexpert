@@ -1,3 +1,4 @@
+```js
 function smallestDifference(arrayOne, arrayTwo) {
   arrayOne.sort((a, b) => a - b);
   arrayTwo.sort((a, b) => a - b);
@@ -30,3 +31,4 @@ function smallestDifference(arrayOne, arrayTwo) {
 
 // Do not edit the line below.
 exports.smallestDifference = smallestDifference;
+```
