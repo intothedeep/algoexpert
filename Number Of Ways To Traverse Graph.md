@@ -31,7 +31,7 @@
   // 7! / (3! * 4!)
   function numberOfWaysToTraverseGraph(width, height) {
     const numerator = factorial(width - 1 + height - 1);
-    const denominator = factorial(width - 1) * factorial(height - 1);
+    const denominator = factorial(width - 1) * factorial(height - 1);``
     return Math.floor(numerator / denominator);
   }
 
