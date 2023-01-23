@@ -56,3 +56,5 @@ function isThisValid(m, i, j) {
 // Do not edit the line below.
 exports.removeIslands = removeIslands;
 ```
+
+## TODO: implement checkLake with iteration
